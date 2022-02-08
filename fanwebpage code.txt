@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+        body
+        {
+            background: grey;
+        }
+        h1
+        {
+            color: red;
+        }
+        h2
+        {
+            height: 25px;
+            color:white;
+            
+        }
+        h3
+        {
+            color: rgb(255, 141, 10);
+        }
+        p
+        {
+            color:orange;
+        }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Call Of Duty FanPage</h1>
+        <h2>by Killian Murphy Kenny</h2>
+        
+        <p><strong>The details:</strong></p>
+        <ul>
+            <li>Call of Duty is first person action shooter game.</li>
+            <li>There are 19 Call of Duty games released so far.</li>
+            <li>They are usually realeased annualy between 3 main developers. Treyarch Studios, Infinity Ward and Sledgehammer Games with Raven Software helping all 3 studios.
+        </ul>
+        
+        <h3>Treyarch Studios: Games They've Made</h3>
+        <p>Treyarch Studios(1996) are the main developers behind the Call of Duty Black Ops franchise. All the Call of Duty games they've made are:
+            <li>Call of Duty 2: Big Red One(2005)</li>
+            <li>Call of Duty 3(2006)</li>
+            <li>Call of Duty: World at War(2008)</li>
+            <li>Call of Duty: Black Ops(2010)</li>
+            <li>Call of Duty: Black Ops II(2012)</li>
+            <li>Call of Duty: Black Ops III(2015)</li>
+            <li>Call of Duty: Black Ops 4(2018)</li>
+            <li>Call of Duty: Black Ops Cold War(2020)</li>
+        </p>
+      
+        
+    </body>
+</html>
